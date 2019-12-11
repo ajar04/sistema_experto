@@ -5,16 +5,7 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js">
 <!--<![endif]-->
-<?php
- 
-	$direccionSWIPL = "/Applications/SWI-Prolog.app/Contents/MacOS/swipl";
-	$direccionArchivo = "/Users/Galaners/Documents/Desarrollo/Prolog/laboratorioclinico.pl";
- 
-	$cmd = "nice -n15 $direccionSWIPL -f $direccionArchivo -g iniciar,halt";
-	$output = shell_exec($cmd);
-	echo($output);
- 
-?>
+
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
