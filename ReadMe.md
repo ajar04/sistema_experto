@@ -20,12 +20,12 @@ Este proyecto se realizo para examen final de Inteligencia Artificial de Ingenie
 
 
 Por que se desarrolla:
-* Para enfatizar sobre la logica difusa que utilizamos en prolog para sistemas expertos 
+* Para enfatizar sobre la logica difusa que utilizamos en prolog para sistemas expertos.
 * Como podemos Utilizar Sistemas expertos en el campo de la salud para apoyo medico.
-* Facilitar el tramite de algunos usuarios para tener idea de lo que posiblemente pueda tener:
+* Facilitar el tramite de algunos usuarios para tener idea de lo que posiblemente pueda tener.
 
 Este sistema experto es capaz de tomar una decision de acuerdo a los sintomas que puedas tener y asi podra saber que puedes tener de acuerdo a la logica de este programa.
-### Contruido Con :
+### Construido Con :
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
